@@ -1,7 +1,6 @@
 # 📈 Power BI Case Study – Competitor Sales & Market Share Analysis
 
-![sales images](http://url/to/img.png)
-
+![sales images]([http://url/to/img.png](https://github.com/gmka98/Competitor-Sales-Analysis/blob/main/sales_dashboard.jpg))
 ## 🧠 Context
 
 Understanding not only how a company performs internally but also how it stacks up against competitors is critical for strategic decision-making. In this case study, the business aims to assess both **sales performance** and **market share** across various products, regions, and competitors. This enables more targeted decisions in pricing, promotion, and product development.
