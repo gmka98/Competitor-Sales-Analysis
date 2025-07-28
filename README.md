@@ -59,6 +59,6 @@ The dataset includes internal and external sales data:
 
 ---
 
-**Author**: _Your Name_  
-**LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-**Email**: your.email@example.com
+**Author**: Gael Mukendi Kabongo
+**LinkedIn**: [My LinkedIn](https://linkedin.com/in/gael-mukendi-kabongo)  
+**Email**: gmka98@gmail.com
